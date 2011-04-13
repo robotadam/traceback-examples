@@ -1,3 +1,9 @@
+"""Example 2
+
+Better! This prints out a nicely formatted traceback!
+
+"""
+
 import traceback
 
 
@@ -11,4 +17,3 @@ def whatever():
 
 if __name__ == '__main__':
     whatever()
-
